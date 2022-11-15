@@ -8,11 +8,6 @@ public class testClass3
 	 System.out.println("TC01");
 	 System.out.println("TC01");
 	 System.out.println("TC01");
-	 System.out.println("TC01");
-	 System.out.println("TC01");
-	 System.out.println("TC01");
-	 System.out.println("TC01");
-	 System.out.println("TC01");
-	 System.out.println("TC01");
+
   }
 }
